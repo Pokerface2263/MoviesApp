@@ -8,13 +8,9 @@ Application uses the open API from The Movie Database (TMDB). You can find out m
 
 ## Photo
 
-<img src="https://github.com/Pokerface2263/MoviesApp/assets/93676466/d9ed5796-4450-4f7b-b07c-180b0562acea" alt="My Photo" width="250"/>
+
+<img src="https://github.com/Pokerface2263/MoviesApp/assets/93676466/30f7919c-fbda-4a18-818d-5b276c4e5fbe" alt="My Photo" width="250"/>
 
 ## Video
 
-https://github.com/Pokerface2263/MoviesApp/assets/93676466/61440ee9-98be-4b03-bfde-226c962e7ec6
-
-
-
-
-
+https://github.com/Pokerface2263/MoviesApp/assets/93676466/ce04101b-01a2-4d62-aab7-6ca1cd12802a
